@@ -1,6 +1,6 @@
 # Media Conversion App
 
-![App Banner](https://raw.githubusercontent.com/stayzappy/stayzappy/main/1 NEW.jpg)
+![App Banner](https://raw.githubusercontent.com/stayzappy/ZapConverter/main/1.jpg)
 
 ## Powerful Format Conversion at Your Fingertips
 
