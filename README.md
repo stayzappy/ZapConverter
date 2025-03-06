@@ -1,4 +1,4 @@
-# Media Conversion App
+# ZapConverter
 
 ![App Banner](https://raw.githubusercontent.com/stayzappy/ZapConverter/main/1.jpg)
 
